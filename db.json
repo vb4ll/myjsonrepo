@@ -1,6 +1,6 @@
 [
       {
-        ""name"": "Rocco",
+        "name": "Rocco",
         "age": 19,
         "online": true
       },
@@ -11,7 +11,7 @@
       },
       {
         "name": "XYZ",
-        "age": Infinity,
+        "age": 44,
         "online": true
       },
       {
@@ -26,7 +26,7 @@
       },
       {
         "name": "XYZ",
-        "age": Infinity,
+        "age": 44,
         "online": true
       },
       {
@@ -41,7 +41,7 @@
       },
       {
         "name": "XYZ",
-        "age": Infinity,
+        "age": 44,
         "online": true
       },
       {
@@ -56,7 +56,7 @@
       },
       {
         "name": "XYZ",
-        "age": Infinity,
+        "age": 44,
         "online": true
       }
 ]
